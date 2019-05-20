@@ -1,2 +1,2 @@
 <?php
-	echo "Olá Mundo!"fasdfasdfasfasfasfasdfsdfasfasfas
+	echo "Olá Mundo!";
