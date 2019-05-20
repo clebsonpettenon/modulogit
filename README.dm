@@ -1,1 +1,1 @@
-Informações sobre o sistema'
+Detalhes sobre o sistema
